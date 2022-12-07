@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MsWordToImageConvert">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Spring Boot Github/word2image/msword2image-java/pack/MsWordToImageConvert.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
